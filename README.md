@@ -5,15 +5,15 @@ Refer to [Serverless docs](https://serverless.com/framework/docs/providers/azure
 For run build:
 
 Deploy offline:
-<code>$ sls offline</code>
+* <code>$ sls offline</code>
 
 Deploy on Azure(account require):
-<code>$ sls deploy</code>
+* <code>$ sls deploy</code>
 
 
 APIs:
-<code>/hello/?name="You name"</code>
-<code>/goodbye/?name="You name"</code>
+* <code>/hello/?name="You name"</code>
+* <code>/goodbye/?name="You name"</code>
 
 
 Requirements:
